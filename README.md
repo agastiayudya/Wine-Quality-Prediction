@@ -4,5 +4,5 @@ The wine industry is characterized by a complex interplay of various factors tha
 ### Objectives
 The objective of this project is to design and implement a predictive model that can accurately predict the quality of wines based on relevant features.
 
-Penjelasan datset :  
-Nilai kualitas wine dimulai dari 0 hingga 10, dimana pada nilai 7 keatas wine dapat dikatakan memiliki kualitas yang bagus sedangkan sisanya tidak.
+### Dataset Explanation
+The quality rating of wine ranges from 0 to 10, where a score of 7 and above can be considered as good quality, while the rest are not.
