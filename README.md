@@ -4,7 +4,7 @@ The wine industry is characterized by a complex interplay of various factors tha
 ### Objectives
 The objective of this project is to design and implement a predictive model that can accurately predict the quality of wines based on relevant features.
 
-### Dataset Explanation
+### Wine Quality
 The quality rating of wine ranges from 0 to 10, where a score of 7 and above can be considered as good quality, while the rest are not.
 
 ### Flowchart
